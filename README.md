@@ -1,8 +1,10 @@
-# 🚀 Taller de Redis - Guía Completa
+# 🚀 Taller de Redis - Guía de Laboratorio
+
+*Autor: @mCárdenas 2025*
 
 <div align="center">
 
-![Redis Logo](https://redis.io/images/redis-white.png)
+![Redis Logo](https://images.icon-icons.com/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png)
 
 **Un taller completo y pedagógico para dominar Redis**
 
